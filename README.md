@@ -1,2 +1,2 @@
-# biomedical_interpretable_entity_representations
-code and datasets associated with ACL 2021 paper
+## Biomedical Interpretable Entity Representations
+Code and datasets associated with ACL 2021 paper coming soon
