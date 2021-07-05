@@ -1,6 +1,7 @@
-#Biomedical Interpretable Entity Representions Code/Data repo
+# Biomedical Interpretable Entity Representions Code/Data repo
 
 Paper published in Findings of ACL 2021 [ [announcement](https://2021.aclweb.org/program/accept/#findings-of-acl) ]
+
 Arxiv version: [ [https://arxiv.org/abs/2106.09502](https://arxiv.org/abs/2106.09502) ]
 
 
@@ -19,17 +20,23 @@ See ier\_model/train.sh
 
 ### BIER training data and best models
    BIER triples can be found [ [here](https://drive.google.com/drive/folders/18crQtSPVLNlVqiBEKV8qgObHAcCvMXXn?usp=sharing) ]
+   
    Model files:
-    BIER-PubMedBERT: [ [model ckpt](https://drive.google.com/uc?id=1-3b2VRkGOkyoBGCm68_4d5m0aZGwQB0J) ]
-    BIER-SciBERT: [ [model ckpt](https://drive.google.com/uc?id=1-FSaNYQ17T8yhyLgCUZJFNuTrmcpbdLo) ]
-    BIER-BioBERT: [ [model ckpt](https://drive.google.com/uc?id=1-KYz3nK7HxA3sXJ-QtLOCHxKTKBSSdjT) ]
+   
+   BIER-PubMedBERT: [ [model ckpt](https://drive.google.com/uc?id=1-3b2VRkGOkyoBGCm68_4d5m0aZGwQB0J) ]
     
-
+   BIER-SciBERT: [ [model ckpt](https://drive.google.com/uc?id=1-FSaNYQ17T8yhyLgCUZJFNuTrmcpbdLo) ]
+    
+   BIER-BioBERT: [ [model ckpt](https://drive.google.com/uc?id=1-KYz3nK7HxA3sXJ-QtLOCHxKTKBSSdjT) ]
+    
    See prior section for how to train BIER models using training data
+   
    See Colabs below for how to load and use models on downstream tasks
+   
 
 ### Replicating downstream task results 
    See experiments/README.md for baselines
 
   - Clinical NED task using EHR dataset:  [ [Colab](https://colab.research.google.com/drive/1_OOJ97GDfgZhB-K98B3P3-5ZJygXHazj) ]
   - Entity Linking Classification on Cancer Genetics dataset:  [ [Colab](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf) ]
+
