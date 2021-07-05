@@ -22,12 +22,9 @@ See ier\_model/train.sh
    BIER triples can be found [ [here](https://drive.google.com/drive/folders/18crQtSPVLNlVqiBEKV8qgObHAcCvMXXn?usp=sharing) ]
    
    Model files:
-   
-   BIER-PubMedBERT: [ [model ckpt](https://drive.google.com/uc?id=1-3b2VRkGOkyoBGCm68_4d5m0aZGwQB0J) ]
-    
-   BIER-SciBERT: [ [model ckpt](https://drive.google.com/uc?id=1-FSaNYQ17T8yhyLgCUZJFNuTrmcpbdLo) ]
-    
-   BIER-BioBERT: [ [model ckpt](https://drive.google.com/uc?id=1-KYz3nK7HxA3sXJ-QtLOCHxKTKBSSdjT) ]
+   - BIER-PubMedBERT: [ [model ckpt](https://drive.google.com/uc?id=1-3b2VRkGOkyoBGCm68_4d5m0aZGwQB0J) ]
+   - BIER-SciBERT: [ [model ckpt](https://drive.google.com/uc?id=1-FSaNYQ17T8yhyLgCUZJFNuTrmcpbdLo) ]
+   - BIER-BioBERT: [ [model ckpt](https://drive.google.com/uc?id=1-KYz3nK7HxA3sXJ-QtLOCHxKTKBSSdjT) ]
     
    See prior section for how to train BIER models using training data
    
