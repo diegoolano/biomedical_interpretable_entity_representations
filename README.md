@@ -34,6 +34,6 @@ See ier\_model/train.sh
 ### Replicating downstream task results 
    See experiments/README.md for baselines
 
-  - Clinical NED task using EHR dataset:  [ [Colab](https://colab.research.google.com/drive/1_OOJ97GDfgZhB-K98B3P3-5ZJygXHazj) ]
-  - Entity Linking Classification on Cancer Genetics dataset:  [ [Colab](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf) ]
+  - Clinical NED task using EHR dataset:  [ [Colab](https://colab.research.google.com/drive/1_OOJ97GDfgZhB-K98B3P3-5ZJygXHazj?usp=sharing) ]
+  - Entity Linking Classification on Cancer Genetics dataset:  [ [Colab](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf?usp=sharing) ]
 

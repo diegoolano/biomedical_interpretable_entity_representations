@@ -3,7 +3,7 @@
 
 ## 1.  Named Entity Disambiguation using EHR Med Wiki dataset
 
-See Colab for how to get BIER numbers [ [here](https://colab.research.google.com/drive/1_OOJ97GDfgZhB-K98B3P3-5ZJygXHazj) ] recommended.
+See Colab for how to get BIER numbers [ [here](https://colab.research.google.com/drive/1_OOJ97GDfgZhB-K98B3P3-5ZJygXHazj?usp=sharing) ] recommended.
 
 ## 1b. or run models locally ( older version )
 <pre>
@@ -35,5 +35,5 @@ To run code, go to ehr_baselines/, edit and run run_bert_baseline.sh with the ba
        
 
 ## 2. Entity Label Classification on Cancer Genetics Data using BIER
-See Colab available at: [ [Colab url](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf) ]
+See Colab available at: [ [Colab url](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf?usp=sharing) ]
 
