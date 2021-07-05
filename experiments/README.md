@@ -1,11 +1,11 @@
-Downstream Experiments for evaluation of Biomed IERs
+# Downstream Experiments for evaluation of Biomed IERs
 
 
-# 1.  Named Entity Disambiguation using EHR Med Wiki dataset
+## 1.  Named Entity Disambiguation using EHR Med Wiki dataset
 
 See Colab for how to get BIER numbers [ [here](https://colab.research.google.com/drive/1_OOJ97GDfgZhB-K98B3P3-5ZJygXHazj) ] recommended.
 
-# 1b. OR run models locally ( older version )
+## 1b. or run models locally ( older version )
 <pre>
 - We need to first train our Wiki Description model 
    CALL: . ../ier_model/train_wiki_desc.sh
@@ -30,11 +30,10 @@ See Colab for how to get BIER numbers [ [here](https://colab.research.google.com
    Additionally for the ehr task, you need to set the training/validation/test data in ned_dot.py
 
 </pre>
-# 1.3 For baselines ( PubMEDBert, BioBERT, SciBERT locally)
-<pre>
-    We use EntEval.  To run code, go to ehr_baselines, edit and run run_bert_baseline.sh with the baseline model of your choice
-</pre>
+## 1.3 For baselines ( PubMEDBert, BioBERT, SciBERT locally)
+To run code, go to ehr_baselines/, edit and run run_bert_baseline.sh with the baseline model of your choice and paths as needed.
        
 
-# 2. Entity Label Classification on Cancer Genetics Data using BIER
-     See Colab available at: [ [Colab url](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf) ]
+## 2. Entity Label Classification on Cancer Genetics Data using BIER
+See Colab available at: [ [Colab url](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf) ]
+
