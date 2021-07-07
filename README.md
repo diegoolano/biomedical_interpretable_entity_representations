@@ -1,9 +1,23 @@
-# Biomedical Interpretable Entity Representions Code/Data repo
+# Biomedical Interpretable Entity Representions
 
 Paper published in Findings of ACL 2021 [ [announcement](https://2021.aclweb.org/program/accept/#findings-of-acl) ]
 
 Arxiv version: [ [https://arxiv.org/abs/2106.09502](https://arxiv.org/abs/2106.09502) ]
 
+```
+@inproceedings{garcia-olano-etal-2021-biers,
+    title = "Biomedical Interpretable Entity Representions",
+    author = "Garcia-Olano, Diego  and
+      Onoe, Yasumasa  and
+      Baldini, Ioana  and
+      Ghosh, Joydeep  and
+      Wallace, Byron  and      
+      Varshney, Kush",
+    booktitle = "Findings of the 59th Annual Meeting of the Association for Computational Linguistics",
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+}
+```
 
 
 ### How to train BioMed IER models
