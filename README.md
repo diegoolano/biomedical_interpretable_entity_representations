@@ -4,7 +4,8 @@
 > Diego Garcia-Olano, Yasumasa Onoe, Ioana Baldini, Joydeep Ghosh, Byron Wallace, Kush Varshney<br/>
 > Findings of ACL 2021
 
-Arxiv: [ [https://arxiv.org/abs/2106.09502](https://arxiv.org/abs/2106.09502) ]
+- Arxiv: [ [https://arxiv.org/abs/2106.09502](https://arxiv.org/abs/2106.09502) ]
+- ACL slides: [ [pdf](https://github.com/diegoolano/biomedical_interpretable_entity_representations/blob/main/docs/BIERs%20-%20ACL-IJCNLP%202021%20presentation.pdf) ]
 
 ``` bibtex
 @inproceedings{garcia-olano2021biers,
