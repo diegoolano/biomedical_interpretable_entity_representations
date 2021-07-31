@@ -1,11 +1,13 @@
 # Biomedical Interpretable Entity Representions
 
-Paper published in Findings of ACL 2021 [ [announcement](https://2021.aclweb.org/program/accept/#findings-of-acl) ]
+> [**Biomedical Interpretable Entity Representions**](https://arxiv.org/abs/2106.09502)<br/>
+> Diego Garcia-Olano, Yasumasa Onoe, Ioana Baldini, Joydeep Ghosh, Byron Wallace, Kush Varshney<br/>
+> Findings of ACL 2021
 
-Arxiv version: [ [https://arxiv.org/abs/2106.09502](https://arxiv.org/abs/2106.09502) ]
+Arxiv: [ [https://arxiv.org/abs/2106.09502](https://arxiv.org/abs/2106.09502) ]
 
-```
-@inproceedings{garcia-olano-etal-2021-biers,
+``` bibtex
+@inproceedings{garcia-olano2021biers,
     title = "Biomedical Interpretable Entity Representions",
     author = "Garcia-Olano, Diego  and
       Onoe, Yasumasa  and
@@ -19,6 +21,15 @@ Arxiv version: [ [https://arxiv.org/abs/2106.09502](https://arxiv.org/abs/2106.0
 }
 ```
 
+To use pre-trained models without re-training BIERS, see colab notebooks in "Replicating downstream tasks" section at bottom.
+
+### Installing Dependencies
+```bash
+$ git clone https://github.com/diegoolano/biomedical_interpretable_entity_representations.git
+$ virtualenv --python=~/envs/py37/bin/python biomed_env
+$ source biomed_env/bin/activate
+$ pip install -r requirements.txt 
+```
 
 ### How to train BioMed IER models
 See ier\_model/train.sh  
@@ -48,6 +59,6 @@ See ier\_model/train.sh
 ### Replicating downstream task results 
    See experiments/README.md for baselines
 
-  - Clinical NED task using EHR dataset:  [ [Colab](https://colab.research.google.com/drive/1_OOJ97GDfgZhB-K98B3P3-5ZJygXHazj?usp=sharing) ]
-  - Entity Linking Classification on Cancer Genetics dataset:  [ [Colab](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf?usp=sharing) ]
+  - Clinical NED task using EHR dataset:  [ ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_OOJ97GDfgZhB-K98B3P3-5ZJygXHazj?usp=sharing)
+  - Entity Linking Classification on Cancer Genetics dataset:  [ ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf?usp=sharing)
 
