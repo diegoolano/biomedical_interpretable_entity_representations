@@ -8,7 +8,7 @@
 - ACL slides: [ [pdf](https://github.com/diegoolano/biomedical_interpretable_entity_representations/blob/main/docs/BIERs%20-%20ACL-IJCNLP%202021%20presentation.pdf) ]
 
 ``` bibtex
-@inproceedings{garcia-olano2021biers,
+@inproceedings{garcia-olano-etal-2021-biomedical,
     title = "Biomedical Interpretable Entity Representions",
     author = "Garcia-Olano, Diego  and
       Onoe, Yasumasa  and
