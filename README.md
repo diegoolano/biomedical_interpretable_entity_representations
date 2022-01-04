@@ -1,15 +1,15 @@
-# Biomedical Interpretable Entity Representions
+# Biomedical Interpretable Entity Representations
 
-> [**Biomedical Interpretable Entity Representions**](https://arxiv.org/abs/2106.09502)<br/>
+> [**Biomedical Interpretable Entity Representations**](https://arxiv.org/abs/2106.09502)<br/>
 > Diego Garcia-Olano, Yasumasa Onoe, Ioana Baldini, Joydeep Ghosh, Byron Wallace, Kush Varshney<br/>
 > Findings of ACL 2021
 
-- Arxiv: [ [https://arxiv.org/abs/2106.09502](https://arxiv.org/abs/2106.09502) ]
+- Paper: [ [https://aclanthology.org/2021.findings-acl.311/](https://aclanthology.org/2021.findings-acl.311/) ]
 - ACL slides: [ [pdf](https://github.com/diegoolano/biomedical_interpretable_entity_representations/blob/main/docs/BIERs%20-%20ACL-IJCNLP%202021%20presentation.pdf) ]
 
 ``` bibtex
 @inproceedings{garcia-olano-etal-2021-biomedical,
-    title = "Biomedical Interpretable Entity Representions",
+    title = "Biomedical Interpretable Entity Representations",
     author = "Garcia-Olano, Diego  and
       Onoe, Yasumasa  and
       Baldini, Ioana  and
