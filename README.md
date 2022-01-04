@@ -63,3 +63,20 @@ See ier\_model/train.sh
   - Clinical NED task using EHR dataset:  [ ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_OOJ97GDfgZhB-K98B3P3-5ZJygXHazj?usp=sharing)
   - Entity Linking Classification on Cancer Genetics dataset:  [ ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CDwTG71UkTKLxMhk7uDm4DHX2YABYbEf?usp=sharing)
 
+> <br/>
+### Connecting PubMed entities to Wiki Categories through UMLS to generate training data
+![](figs/biers3.png?raw=true)
+- after generating (mention, context, categories) triples we then learn BIERs as follows:
+
+><br/>
+><br/>
+
+### BioMed IER architecture for learning biomed entity representations with interpretable components
+![](figs/biers2.png?raw=true)
+- after learning BIERs we can test their efficacy in a Zeroshot capacity for different biomed tasks
+
+><br/>
+><br/>
+
+### Zeroshot results for varying amounts of supervision 
+![](figs/biers1.png?raw=true)
